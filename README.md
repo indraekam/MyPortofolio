@@ -47,7 +47,7 @@ Each project includes clear documentation, source code, and demo links where ava
 
 | Project | Description | Tools | Link |
 |--------|-------------|-------|------|
-| 🔍 **Face Detection & Emotion Recognition** | Detect face and predict emotion in real-time | `OpenCV`, `CNN`, `Keras` | [Repo](https://github.com/username/emotion-detector) |
+| 🩺 **Image Processing – Anemia Classification using HOG + Decision Tree and SGD Classifier** | Classify anemia based on hemoglobin images from the lower eyelid using HOG features and ML models | Scikit-learn, Scikit-image, Matplotlib | [Repo](https://github.com/indraekam/ImageProcessing_AnemiaClassificationHog/tree/main) |
 | 🧬 **Watermarking with DWT + GA** | Embed and optimize image watermarking with genetic algorithms | `PyWavelets`, `GA`, `OpenCV` | [Repo](https://github.com/username/watermarking-ga) |
 
 ---
