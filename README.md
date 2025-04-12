@@ -23,6 +23,7 @@ Each project includes clear documentation, source code, and demo links where ava
 |--------|-------------|-------|------|
 | 🚗 **Transportation Mode Prediction using RandomForest** | Predict modes of transportation based on user features using Random Forest and GridSearchCV | Scikit-learn, GridSearchCV, Seaborn | [Repo](https://github.com/indraekam/Classification_TransportationModeClassification/) |
 | 🧬 Autism Prediction with GA + Fuzzy Tsukamoto | A Java-based expert system that predicts childhood autism tendencies using CARS and CAT, powered by Genetic Algorithm optimization of Fuzzy Tsukamoto rules | Java, Genetic Algorithm, Fuzzy Logic, Expert System | [Repo](https://github.com/indraekam/AlgoritmaGenetikaFuzzyTsukamoto) |
+| 🧠 EEG-Based Emotion Recognition with GCN | Classifies emotional states (positive, neutral, negative) from EEG signals using frame-based FFT preprocessing and Graph Convolutional Networks | Python, TensorFlow, EEG, GCN, Signal Processing | [Repo](https://github.com/indraekam/Classification_EmotionRecognation_EEGandGCN) |
 
 ---
 
