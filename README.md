@@ -32,7 +32,7 @@ Each project includes clear documentation, source code, and demo links where ava
 
 | Project | Description | Tools | Link |
 |--------|-------------|-------|------|
-| 🧪 **Customer Segmentation** | Segment customers using K-Means on shopping dataset | `Scikit-learn`, `KMeans`, `PCA`, `Matplotlib` | [Repo](https://github.com/username/customer-segmentation) |
+| 🛍️ Customer Segmentation & Purchase Analysis | Python-based analysis of retail customer data with visual insights and clustering for age, product, and spending patterns | Python, Data Analysis, Clustering, EDA | [Repo](https://github.com/indraekam/Clustering_CustomerSegmentation) |
 
 ---
 
