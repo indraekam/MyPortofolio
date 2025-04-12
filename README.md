@@ -65,6 +65,8 @@ Each project includes clear documentation, source code, and demo links where ava
 | 📡 D2D Resource Allocation with Genetic Algorithm | MATLAB-based optimization of relay and resource allocation in D2D communication using resource grouping and genetic algorithm for efficient scheduling | MATLAB, Genetic Algorithm, Wireless Communication, Optimization | [Repo](https://github.com/indraekam/Optimization_D2DResourceAlocation_GA) |
 | 📦 Integrated Inventory Optimization (SVMB) with GA | MATLAB-based optimization model for single vendor–multiple buyer inventory with imperfect quality, lead time reduction, and logistic cost using Genetic Algorithm | MATLAB, Genetic Algorithm, Inventory Optimization, Supply Chain | [Repo](https://github.com/indraekam/Optimization_IntegratedInventoryOptimization_GeneticAlgorithm) |
 | ⚡ Economic & Emission Dispatch Optimization with PSO | MATLAB-based optimization model for economic, emission, and combined dispatch in power systems using Particle Swarm Optimization | MATLAB, PSO, Power Systems, Optimization | [Repo](https://github.com/indraekam/Optimization_EconomicEmissionDispatch_PSO) |
+| 🍞 Bread Delivery Route Optimization (TSP + GA) | MATLAB-based Genetic Algorithm for solving the Travelling Salesman Problem to optimize delivery routes from vendor to multiple stores | MATLAB, Genetic Algorithm, TSP, Logistics Optimization | [Repo](https://github.com/indraekam/Optimization_TSPBreadDelivery_GA) |
+
 
 
 
