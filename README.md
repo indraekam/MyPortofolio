@@ -38,7 +38,7 @@ Each project includes clear documentation, source code, and demo links where ava
 
 | Project | Description | Tools | Link |
 |--------|-------------|-------|------|
-| 📰 **News Topic Classification** | Classify news articles into topics | `NLTK`, `TF-IDF`, `SVM` | [Repo](https://github.com/username/news-topic-classifier) |
+| 💬 **Sentiment Analysis App (Streamlit)** | Analisis sentimen teks menggunakan SVM, Naive Bayes, dan Voting Classifier, dilengkapi visualisasi interaktif dengan Streamlit | Streamlit, Scikit-learn, SVM, Naive Bayes | [Repo]([https://github.com/indraekam/my-python-project](https://github.com/indraekam/Sentiment-Analysis-SVM-NB-VC)) |
 | 🗣️ **Chatbot Assistant** | Rule-based + ML-powered chatbot | `Rasa`, `Regex`, `Transformers` | [Repo](https://github.com/username/chatbot-assistant) |
 
 ---
