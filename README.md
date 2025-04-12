@@ -22,7 +22,7 @@ Each project includes clear documentation, source code, and demo links where ava
 | Project | Description | Tools | Link |
 |--------|-------------|-------|------|
 | 🚗 **Transportation Mode Prediction using RandomForest** | Predict modes of transportation based on user features using Random Forest and GridSearchCV | Scikit-learn, GridSearchCV, Seaborn | [Repo](https://github.com/indraekam/Classification_TransportationModeClassification/) |
-| 📈 **Loan Default Predictor** | Classify loan risk level using supervised learning | `Scikit-learn`, `Pandas`, `Logistic Regression` | [Repo](https://github.com/username/loan-default-predictor) |
+| 🧬 Autism Prediction with GA + Fuzzy Tsukamoto | A Java-based expert system that predicts childhood autism tendencies using CARS and CAT, powered by Genetic Algorithm optimization of Fuzzy Tsukamoto rules | Java, Genetic Algorithm, Fuzzy Logic, Expert System | [Repo](https://github.com/indraekam/AlgoritmaGenetikaFuzzyTsukamoto) |
 
 ---
 
