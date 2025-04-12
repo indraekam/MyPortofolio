@@ -40,7 +40,7 @@ Each project includes clear documentation, source code, and demo links where ava
 | Project | Description | Tools | Link |
 |--------|-------------|-------|------|
 | 💬 **Sentiment Analysis App (Streamlit)** | Analisis sentimen teks menggunakan SVM, Naive Bayes, dan Voting Classifier, dilengkapi visualisasi interaktif dengan Streamlit | Streamlit, Scikit-learn, SVM, Naive Bayes | [Repo](https://github.com/indraekam/Sentiment-Analysis-SVM-NB-VC) |
-| 🗣️ **Chatbot Assistant** | Rule-based + ML-powered chatbot | `Rasa`, `Regex`, `Transformers` | [Repo](https://github.com/username/chatbot-assistant) |
+| ✍️ Automated Essay Scoring with IndoSBERT | Predicts Indonesian essay scores by comparing semantic similarity between student answers and reference keys using IndoSBERT embeddings | NLP, IndoBERT, Semantic Similarity, Automated Scoring | [Repo](https://github.com/indraekam/NLP_AutomatedEssayScoring_Indosbert/) |
 
 ---
 
