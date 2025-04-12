@@ -67,7 +67,7 @@ Each project includes clear documentation, source code, and demo links where ava
 
 | Project | Description | Tools | Link |
 |--------|-------------|-------|------|
-| 🤖 **ML Playground** | Collection of notebooks testing new ML algorithms and visualizations | `Various` | [Repo](https://github.com/username/ml-playground) |
+| 🐍 **HackerRank Python Solutions** | Kumpulan solusi latihan Python di HackerRank dengan pendekatan clean code dan terstruktur berdasarkan topik | Python, HackerRank, Clean Code | [Repo](https://github.com/indraekam/hackerrank_Python) |
 | 🧰 **Feature Engineering Toolkit** | Toolkit for automated feature generation and selection | `Scikit-learn`, `Boruta`, `SHAP` | [Repo](https://github.com/username/feature-engineering-kit) |
 
 ---
