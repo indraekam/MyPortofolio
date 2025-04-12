@@ -21,7 +21,7 @@ Each project includes clear documentation, source code, and demo links where ava
 
 | Project | Description | Tools | Link |
 |--------|-------------|-------|------|
-| 🧏‍♀️ **Sign Language Classifier** | Predict sign gestures using image classification with YOLOv8 | `YOLOv8`, `MediaPipe`, `Transformer`, `Streamlit` | [Repo](https://github.com/username/sign-language-translator) |
+| 🚗 **Transportation Mode Prediction using RandomForest** | Predict modes of transportation based on user features using Random Forest and GridSearchCV | Scikit-learn, GridSearchCV, Seaborn | [Repo](https://github.com/indraekam/Classification_TransportationModeClassification/) |
 | 📈 **Loan Default Predictor** | Classify loan risk level using supervised learning | `Scikit-learn`, `Pandas`, `Logistic Regression` | [Repo](https://github.com/username/loan-default-predictor) |
 
 ---
