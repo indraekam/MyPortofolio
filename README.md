@@ -12,7 +12,7 @@ Each project includes clear documentation, source code, and demo links where ava
 - 🧭 [Clustering](#-clustering)
 - 🧠 [Natural Language Processing (NLP)](#-natural-language-processing-nlp)
 - 🖼️ [Image Processing & Computer Vision](#-image-processing-computer-vision)
-- 🧮 [Optimization (VRP, TSP, GA)](#-optimization-vrp-tsp-ga)
+- 🧮 [Optimization (VRP, TSP, GA)](#-optimization-vrp-tsp-ga-etc)
 - 🧪 [Others / Experimental](#-others--experimental)
 
 ---
