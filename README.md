@@ -49,6 +49,8 @@ Each project includes clear documentation, source code, and demo links where ava
 |--------|-------------|-------|------|
 | 🩺 **Image Processing – Anemia Classification using HOG + Decision Tree and SGD Classifier** | Classify anemia based on hemoglobin images from the lower eyelid using HOG features and ML models | Scikit-learn, Scikit-image, Matplotlib | [Repo](https://github.com/indraekam/ImageProcessing_AnemiaClassificationHog/tree/main) |
 | 👁️ **Iris Recognition using Manual HOG + MLPClassifier** | Identify 30 individuals based on iris images using handcrafted HOG features and backpropagation neural network | OpenCV, Scikit-learn, Matplotlib | [Repo](https://github.com/indraekam/ImageProcessing_IrisIdentificationUsingHOG_Backpropagation/tree/main) |
+| 🍎 **Fruit & Color Classification using ResNet50** | Predict type and color of fruits from images using pretrained ResNet50 | TensorFlow, ResNet50, Image Processing | [Repo](https://github.com/indraekam/MulticlassImageClassification_FruitColor) |
+
 
 ---
 
