@@ -60,7 +60,8 @@ Each project includes clear documentation, source code, and demo links where ava
 | Project | Description | Tools | Link |
 |--------|-------------|-------|------|
 | 🐝 Bee Colony Optimization for Scheduling | A Java-based application that applies the Bee Colony Optimization (BCO) algorithm to automatically generate efficient class or course schedules | Java, Swarm Intelligence, Optimization | [Repo](https://github.com/indraekam/SwarmOptimization_BeeColony) |
-| 🗺️ **Traveling Salesman Problem (TSP)** | Solve TSP using Simulated Annealing & GA | `Python`, `SA`, `GA` | [Repo](https://github.com/username/tsp-solver) |
+| 📡 D2D Resource Allocation with Genetic Algorithm | MATLAB-based optimization of relay and resource allocation in D2D communication using resource grouping and genetic algorithm for efficient scheduling | MATLAB, Genetic Algorithm, Wireless Communication, Optimization | [Repo](https://github.com/indraekam/Optimization_D2DResourceAlocation_GA) |
+
 
 ---
 
