@@ -91,9 +91,9 @@ Several projects are also deployed online for demo:
 
 ## 📬 Contact Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-name)
-- 🐦 [Twitter](https://twitter.com/your-handle)
-- 📧 Email: your.email@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/indra-eka-mandriana-47a885148/)
+- 🐦 [Instagram](https://www.instagram.com/konsul.informatika/)
+- 📧 Email: indraeka.mandriana29@gmail.com
 
 ---
 
