@@ -68,7 +68,7 @@ Each project includes clear documentation, source code, and demo links where ava
 | Project | Description | Tools | Link |
 |--------|-------------|-------|------|
 | 🐍 **HackerRank Python Solutions** | Kumpulan solusi latihan Python di HackerRank dengan pendekatan clean code dan terstruktur berdasarkan topik | Python, HackerRank, Clean Code | [Repo](https://github.com/indraekam/hackerrank_Python) |
-| 🧰 **Feature Engineering Toolkit** | Toolkit for automated feature generation and selection | `Scikit-learn`, `Boruta`, `SHAP` | [Repo](https://github.com/username/feature-engineering-kit) |
+| 🧩 HackerRank SQL Solutions | Kumpulan jawaban tantangan SQL di HackerRank: SELECT, JOIN, agregasi, subquery, dan banyak lagi | SQL, HackerRank, PostgreSQL, MySQL | [Repo](https://github.com/indraekam/hackerrank_SQL) |
 
 ---
 
