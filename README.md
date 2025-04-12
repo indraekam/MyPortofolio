@@ -11,7 +11,7 @@ Each project includes clear documentation, source code, and demo links where ava
 - 🔍 [Classification](#-classification)
 - 🧭 [Clustering](#-clustering)
 - 🧠 [Natural Language Processing (NLP)](#-natural-language-processing-nlp)
-- 🖼️ [Image Processing & Computer Vision](#-image-processing--computer-vision)
+- 🖼️ [Image Processing & Computer Vision](#-image-processing-computer-vision)
 - 🧮 [Optimization (VRP, TSP, GA)](#-optimization-vrp-tsp-ga)
 - 🧪 [Others / Experimental](#-others--experimental)
 
