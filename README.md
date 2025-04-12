@@ -54,11 +54,11 @@ Each project includes clear documentation, source code, and demo links where ava
 
 ---
 
-## 🧮 Optimization (VRP, TSP, GA)
+## 🧮 Optimization (VRP, TSP, GA, Etc.)
 
 | Project | Description | Tools | Link |
 |--------|-------------|-------|------|
-| 🚛 **Multi-Product VRP Solver** | Route optimization for multiple fuel types | `Python`, `GA`, `Map Plot` | [Repo](https://github.com/username/vrp-multiproduct) |
+| 🐝 Bee Colony Optimization for Scheduling | A Java-based application that applies the Bee Colony Optimization (BCO) algorithm to automatically generate efficient class or course schedules | Java, Swarm Intelligence, Optimization | [Repo](https://github.com/indraekam/SwarmOptimization_BeeColony) |
 | 🗺️ **Traveling Salesman Problem (TSP)** | Solve TSP using Simulated Annealing & GA | `Python`, `SA`, `GA` | [Repo](https://github.com/username/tsp-solver) |
 
 ---
