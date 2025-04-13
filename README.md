@@ -34,6 +34,8 @@ Each project includes clear documentation, source code, and demo links where ava
 | Project | Description | Tools | Link |
 |--------|-------------|-------|------|
 | 🛍️ Customer Segmentation & Purchase Analysis | Python-based analysis of retail customer data with visual insights and clustering for age, product, and spending patterns | Python, Data Analysis, Clustering, EDA | [Repo](https://github.com/indraekam/Clustering_CustomerSegmentation) |
+| 📊 Clustering Telecommunication Customers | Segmentation analysis of telecom customers using K-means clustering with PCA. Feature scaling, encoding, outlier handling steps included | Python, K-means, PCA, Clustering, EDA | [Repo](https://github.com/indraekam/Clustering_TelecomunicationCustomer/) |
+
 
 ---
 
