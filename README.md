@@ -74,6 +74,8 @@ Each project includes clear documentation, source code, and demo links where ava
 | Project | Description | Tools | Link |
 |--------|-------------|-------|------|
 | 🤖 RAG Chat with PDF via AWS Bedrock | Streamlit app that enables PDF Q&A using Retrieval-Augmented Generation (RAG) and AWS Bedrock models (Claude, Llama3) | AWS Bedrock, LangChain, FAISS, Streamlit, Titan Embeddings | [Repo](https://github.com/indraekam/RAG_AppChatWithPDF_AWSbedrock) |
+| 📝 Blog Generator with AWS Bedrock & Lambda | Serverless blog generation using LLaMA3 on AWS Bedrock, with Lambda + S3 integration for storing results | AWS Lambda, Bedrock, LLaMA3, S3, Python | [Repo](https://github.com/indraekam/BlogGenerator_AWSbedrock) |
+
 
 ---
 
