@@ -13,6 +13,7 @@ Each project includes clear documentation, source code, and demo links where ava
 - 🧠 [Natural Language Processing (NLP)](#-natural-language-processing-nlp)
 - 🖼️ [Image Processing & Computer Vision](#-image-processing-computer-vision)
 - 🧮 [Optimization (VRP, TSP, GA)](#-optimization-vrp-tsp-ga-etc)
+- ✨ [Generative AI & LLM Apps](#-generative-ai--llm-apps)
 - 🧪 [Others / Experimental](#-others--experimental)
 
 ---
@@ -54,7 +55,6 @@ Each project includes clear documentation, source code, and demo links where ava
 | 🍎 **Fruit & Color Classification using ResNet50** | Predict type and color of fruits from images using pretrained ResNet50 | TensorFlow, ResNet50, Image Processing | [Repo](https://github.com/indraekam/MulticlassImageClassification_FruitColor) |
 | 🌾 Rice Quality Classification with Naive Bayes | MATLAB-based image classification system to determine rice grain quality using feature extraction and Naive Bayes classifier | MATLAB, Image Processing, Naive Bayes, Classification | [Repo](https://github.com/indraekam/ImageClassification_RiceClassification_NaiveBayes) |
 
-
 ---
 
 ## 🧮 Optimization (VRP, TSP, GA, Etc.)
@@ -67,8 +67,13 @@ Each project includes clear documentation, source code, and demo links where ava
 | ⚡ Economic & Emission Dispatch Optimization with PSO | MATLAB-based optimization model for economic, emission, and combined dispatch in power systems using Particle Swarm Optimization | MATLAB, PSO, Power Systems, Optimization | [Repo](https://github.com/indraekam/Optimization_EconomicEmissionDispatch_PSO) |
 | 🍞 Bread Delivery Route Optimization (TSP + GA) | MATLAB-based Genetic Algorithm for solving the Travelling Salesman Problem to optimize delivery routes from vendor to multiple stores | MATLAB, Genetic Algorithm, TSP, Logistics Optimization | [Repo](https://github.com/indraekam/Optimization_TSPBreadDelivery_GA) |
 
+---
 
+## ✨ Generative AI & LLM Apps
 
+| Project | Description | Tools | Link |
+|--------|-------------|-------|------|
+| 🤖 RAG Chat with PDF via AWS Bedrock | Streamlit app that enables PDF Q&A using Retrieval-Augmented Generation (RAG) and AWS Bedrock models (Claude, Llama3) | AWS Bedrock, LangChain, FAISS, Streamlit, Titan Embeddings | [Repo](https://github.com/indraekam/RAG_AppChatWithPDF_AWSbedrock) |
 
 ---
 
@@ -99,4 +104,3 @@ Several projects are also deployed online for demo:
 
 ⭐ If you like any of these projects, don’t forget to star them on GitHub.  
 Thanks for stopping by and happy coding!
-
