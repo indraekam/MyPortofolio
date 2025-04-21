@@ -26,6 +26,7 @@ Each project includes clear documentation, source code, and demo links where ava
 | 🧬 Autism Prediction with GA + Fuzzy Tsukamoto | A Java-based expert system that predicts childhood autism tendencies using CARS and CAT, powered by Genetic Algorithm optimization of Fuzzy Tsukamoto rules | Java, Genetic Algorithm, Fuzzy Logic, Expert System | [Repo](https://github.com/indraekam/AlgoritmaGenetikaFuzzyTsukamoto) |
 | 🧠 EEG-Based Emotion Recognition with GCN | Classifies emotional states (positive, neutral, negative) from EEG signals using frame-based FFT preprocessing and Graph Convolutional Networks | Python, TensorFlow, EEG, GCN, Signal Processing | [Repo](https://github.com/indraekam/Classification_EmotionRecognation_EEGandGCN) |
 | 📉 Customer Churn Prediction | Predicts telecom customer churn using machine learning models with feature analysis and evaluation metrics comparison | Python, Machine Learning, Classification, CatBoost, XGBoost | [Repo](https://github.com/indraekam/Classification_CustomerChutnPrediction/) |
+| 💳 **Loan Approval Prediction App** | Predicts loan approval status based on user financial features using XGBoost and deployed with Streamlit UI | Python, XGBoost, Streamlit, Sklearn | [Repo](https://github.com/indraekam/Prediction_LoanPrediction/) |
 
 ---
 
