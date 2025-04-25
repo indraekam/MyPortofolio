@@ -109,3 +109,6 @@ Several projects are also deployed online for demo:
 
 ⭐ If you like any of these projects, don’t forget to star them on GitHub.  
 Thanks for stopping by and happy coding!
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="indra-eka-mandriana-47a885148" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://id.linkedin.com/in/indra-eka-mandriana-47a885148?trk=profile-badge">Indra Eka Mandriana</a></div>
+              
