@@ -101,7 +101,7 @@ Several projects are also deployed online for demo:
 
 ## 📬 Contact Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/indra-eka-mandriana-47a885148/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/indra-eka-mandriana/)
 - 🐦 [Instagram](https://www.instagram.com/konsul.informatika/)
 - 📧 Email: indraeka.mandriana29@gmail.com
 
